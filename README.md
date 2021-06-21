@@ -3,7 +3,7 @@
 I'm a SWE at Google who's slowly learning to cobble together videogames in my spare time. So far, I've made:
 
 [**A Short Round of Golf**](https://karpierz.itch.io/a-short-round-of-golf)  
-[**Aura TD**](https://karpierz.itch.io/aura-td)
+[**Aura TD**](https://karpierz.itch.io/aura-td)  
 [**Snake, but Poorly Implemented**](https://karpierz.itch.io/snake-but-poorly-implemented)  
 [**Dash**](https://karpierz.itch.io/dash)  
 
