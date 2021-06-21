@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
+-->
 
 I'm a SWE at Google who's slowly learning to cobble together videogames in my spare time. So far, I've made:
 
