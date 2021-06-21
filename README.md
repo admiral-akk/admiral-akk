@@ -4,7 +4,7 @@ I'm a SWE at Google who's slowly learning to cobble together videogames in my sp
 
 [**A Short Round of Golf**](https://karpierz.itch.io/a-short-round-of-golf)  
 [**Snake, but Poorly Implemented**](https://karpierz.itch.io/snake-but-poorly-implemented)  
-[**Dash**])(https://karpierz.itch.io/dash)
+[**Dash**](https://karpierz.itch.io/dash)
 [**Aura TD**](https://karpierz.itch.io/aura-td)
 
 <!--
