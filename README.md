@@ -12,7 +12,7 @@ I'm a former SWE at Google who's slowly learning to cobble together videogames. 
 
 I also dabble in some digital art:
 
-[**A Quiet Night**](https://karpierz.itch.io/diorama-simplified-earth)  
+[**Low-Poly Earth **](https://karpierz.itch.io/diorama-simplified-earth)  
 [**A Quiet Night**](https://karpierz.itch.io/diorama-a-quiet-night)
 
 <!--
