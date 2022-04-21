@@ -6,9 +6,9 @@ I'm a former SWE at Google who's slowly learning to cobble together videogames. 
 [**Aura TD**](https://karpierz.itch.io/aura-td)  
 [**Snake, but Poorly Implemented**](https://karpierz.itch.io/snake-but-poorly-implemented)  
 [**Dash**](https://karpierz.itch.io/dash)  
-[**AutoChess**](https://karpierz.itch.io/actually-autochess)
-[**Crosswordle**](https://magikarpierz.com/games/crosswordle.html)
-[**Wordle Blitz**](https://magikarpierz.com/games/wordle-blitz.html)
+[**AutoChess**](https://karpierz.itch.io/actually-autochess)  
+[**Crosswordle**](https://magikarpierz.com/games/crosswordle.html)  
+[**Wordle Blitz**](https://magikarpierz.com/games/wordle-blitz.html)  
 
 I also dabble in some digital art:
 
